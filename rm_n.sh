@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 
 usage() {
     echo "Usage: $0 <dir> <n>" >&2
